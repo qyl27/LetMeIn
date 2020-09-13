@@ -1,0 +1,10 @@
+messages:
+  player_kicked: "§6你不是VIP玩家，现在你无法进入服务器！"
+
+timespans:
+  1:
+    start: "18:00:12"
+    end: "20:00:34"
+  2:
+    start: "21:00:56"
+    end: "06:23:33"

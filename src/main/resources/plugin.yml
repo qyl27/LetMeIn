@@ -1,0 +1,12 @@
+name: LetMeIn
+version: 1.0.0
+main: cx.rain.mc.bukkit.letmein.LetMeIn
+author: AmemiyaShigure
+api-version: 1.13
+description: This plugin is used to prevent non vip player log-in server in specific time.
+prefix: LetMeIn
+
+permissions:
+  letmein.bypass:
+    description: Allows player log in at specific time.
+    default: op
